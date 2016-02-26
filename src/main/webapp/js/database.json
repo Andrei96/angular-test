@@ -1,0 +1,72 @@
+{
+  "items":[
+    {
+      "id": 1,
+      "name": "Холодильник",
+      "description": "Зберігає ваші продукти у надійному холоді",
+      "price": 3599.99,
+      "img": "/images/freeze.jpg",
+      "comments": [
+        {
+          "email": "user@this.site.com",
+          "message": "Мене цікавить, чи є інші кольори цієї моделі?"
+        },
+        {
+          "email": "user2@this.site.com",
+          "message": "Холодильник чудовий, але чому так дорого?"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Пральна машина",
+      "description": "Випрає ваші речі швидко і економно",
+      "price": 2999.49,
+      "img": "/images/washmachine.jpg",
+      "comments": [
+        {
+          "email": "user3@this.site.com",
+          "message": "А яка максимальна швидкість цієї машини?"
+        },
+        {
+          "email": "user4@this.site.com",
+          "message": "Чому я її бачу тільки в магазині?"
+        },
+        {
+          "email": "user5@this.site.com",
+          "message": "Яке максимальне завантаження?"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Мікрохвильовка",
+      "description": "Розігріє навіть найхолодніше серце",
+      "price": 1400.49,
+      "img": "/images/oven.jpg",
+      "comments": [
+        {
+          "email": "user7@this.site.com",
+          "message": "Яка максимальна температура за документацією?"
+        },
+        {
+          "email": "user8@this.site.com",
+          "message": "Мені здається вмістскість замала якась"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Кухонна витяжка",
+      "description": "Готуйте на кухні не задихаючись від диму",
+      "price": 2199.99,
+      "img": "/images/vent.jpg",
+      "comments": [
+        {
+          "email": "user10@this.site.com",
+          "message": "А чи підійде вона під мою нову кухню?"
+        }
+      ]
+    }
+  ]
+}
